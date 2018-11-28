@@ -1,4 +1,4 @@
-# Simple helpers for acquiring auth tokens
+# Helpers for managing Dynamics 365 auth tokens in ASP.NET Core
 These identity extensions can be used to simplify management of Dynamics 365 tokens when using ASP.NET Core with Azure AD.
 
 Copy the code to your project, then when you have acquired an Azure AD token and want to exchange it for a Dynamics 365 token:
